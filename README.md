@@ -38,6 +38,22 @@
 
 ---
 
+## Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/Pjke8WmUtKw">
+    <img src="https://img.youtube.com/vi/Pjke8WmUtKw/maxresdefault.jpg" alt="Privance Demo Video" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/Pjke8WmUtKw">
+    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube"/>
+  </a>
+</p>
+
+---
+
 ## The Problem
 
 Traditional DeFi lending exposes sensitive financial data on public blockchains. Users must choose between **privacy** and **access to credit**.
