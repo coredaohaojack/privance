@@ -10,7 +10,7 @@ By participating in this project, you agree to maintain a respectful and inclusi
 
 ### Reporting Bugs
 
-1. Check if the bug has already been reported in [Issues](https://github.com/coredaohaojack/privance-fhevm/issues)
+1. Check if the bug has already been reported in [Issues](https://github.com/coredaohaojack/privance/issues)
 2. If not, create a new issue with:
    - Clear, descriptive title
    - Steps to reproduce
@@ -20,7 +20,7 @@ By participating in this project, you agree to maintain a respectful and inclusi
 
 ### Suggesting Features
 
-1. Check existing [Issues](https://github.com/coredaohaojack/privance-fhevm/issues) for similar suggestions
+1. Check existing [Issues](https://github.com/coredaohaojack/privance/issues) for similar suggestions
 2. Create a new issue with the `enhancement` label
 3. Describe the feature and its use case
 4. Explain why it would benefit the project
@@ -39,8 +39,8 @@ By participating in this project, you agree to maintain a respectful and inclusi
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/privance-fhevm.git
-cd privance-fhevm
+git clone https://github.com/YOUR_USERNAME/privance.git
+cd privance
 
 # Install dependencies
 pnpm install

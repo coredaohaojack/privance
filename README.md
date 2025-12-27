@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/coredaohaojack/privance-fhevm/main/docs/logo.png" alt="Privance" width="200">
+  <img src="https://raw.githubusercontent.com/coredaohaojack/privance/main/docs/logo.png" alt="Privance" width="200">
   <br>
   Privance
   <br>
@@ -178,8 +178,8 @@ function computeCreditScore() external {
 
 ```bash
 # Clone the repository
-git clone https://github.com/coredaohaojack/privance-fhevm.git
-cd privance-fhevm
+git clone https://github.com/coredaohaojack/privance.git
+cd privance
 
 # Install dependencies
 pnpm install
@@ -208,7 +208,7 @@ NEXT_PUBLIC_CHAIN_ID=11155111
 ## Project Structure
 
 ```
-privance-fhevm/
+privance/
 ├── packages/
 │   ├── client/              # Next.js frontend
 │   │   ├── app/             # App router pages
@@ -296,6 +296,6 @@ This project is licensed under the **BSD-3-Clause-Clear** License - see the [LIC
 
 <p align="center">
   <a href="https://privance-frontend-three.vercel.app">Live Demo</a> •
-  <a href="https://github.com/coredaohaojack/privance-fhevm/issues">Report Bug</a> •
-  <a href="https://github.com/coredaohaojack/privance-fhevm/issues">Request Feature</a>
+  <a href="https://github.com/coredaohaojack/privance/issues">Report Bug</a> •
+  <a href="https://github.com/coredaohaojack/privance/issues">Request Feature</a>
 </p>
