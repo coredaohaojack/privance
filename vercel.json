@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "buildCommand": "cd packages/fhevm-sdk && npm run build && cd ../client && npm run build",
+  "installCommand": "npm install --legacy-peer-deps",
+  "outputDirectory": "packages/client/.next",
+  "env": {
+    "NEXT_PUBLIC_CONTRACT_ADDRESS": "0x4913b4eb032eB8f8D76bFc542dB48038115890a4",
+    "NEXT_PUBLIC_COLLATERAL_MANAGER": "0xA665238920d557533A7a925E8598F50F547584C8",
+    "NEXT_PUBLIC_REPAYMENT_TRACKER": "0x6d8383DA640306f5cD649B6ECBec1777024e3230",
+    "NEXT_PUBLIC_CHAIN_ID": "11155111"
+  }
+}
